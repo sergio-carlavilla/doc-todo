@@ -17,8 +17,10 @@ TODO list:
 
 
 Documentation left to sync:
-    - https://reviews.freebsd.org/D27492
-    - In japanese handbook: bsdinstall, l10n, cutting-edge, x11, multimedia, security
-    - Glossary in the handbook.
-    - Some i18n things in the Hugo theme, but not related to any book or article.
-    
+
+- https://reviews.freebsd.org/D27492
+- In japanese handbook: bsdinstall, l10n, cutting-edge, x11, multimedia, security, bibliography
+- Glossary in the handbook.
+- Some i18n things in the Hugo theme, but not related to any book or article.
+- Really old releases in i18n
+- Really old news in i18n
