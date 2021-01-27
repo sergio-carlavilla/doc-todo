@@ -10,7 +10,6 @@ TODO list:
 - Update quarterly reports to use the new tech
 - Update weblate instance to use the new AsciiDoc templates
 - At the bottom of news page, add the list of past years
-- 404 page style
 - Deal with security patches, show instead of download
 - Finish pgpkeys scripts
 - Use rouge in the source sections instead the CSS hack
