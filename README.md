@@ -1,5 +1,6 @@
 TODO list:
 
+- Fix broken URLs
 - Fix problem with minify and RSS
 - Improve the scripts used to generate the TOCs
 - Size of news page
