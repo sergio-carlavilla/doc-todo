@@ -8,11 +8,9 @@ TODO list:
 - Improve the releases section
 - Finish the FDP
 - Split the books, right now only Handbook it's separated into different chapters
-- Update quarterly reports to use the new tech
 - Update weblate instance to use the new AsciiDoc templates
 - At the bottom of news page, add the list of past years
 - Deal with security patches, show instead of download
-- Finish pgpkeys scripts
 - Use rouge in the source sections instead the CSS hack
 
 
