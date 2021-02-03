@@ -10,7 +10,6 @@ TODO list:
 - Split the books, right now only Handbook it's separated into different chapters
 - Update weblate instance to use the new AsciiDoc templates
 - At the bottom of news page, add the list of past years
-- Deal with security patches, show instead of download
 - Use rouge in the source sections instead the CSS hack
 
 
