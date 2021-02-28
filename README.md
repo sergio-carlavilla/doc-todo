@@ -12,7 +12,7 @@ TODO list:
 
 Documentation left to sync:
 
-- In japanese handbook: l10n, cutting-edge, multimedia, security
+- In japanese handbook: l10n, cutting-edge, security
 - Glossary in the handbook.
 - Some i18n things in the Hugo theme, but not related to any book or article.
 - Really old releases in i18n
